@@ -117,14 +117,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/0dee0280-9989-4d6d-86c2-30fc5d1f537d",
+                "@id": "http://dlcs.io/iiif-img/2/2/0dee0280-9989-4d6d-86c2-30fc5d1f537d/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 494,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/0dee0280-9989-4d6d-86c2-30fc5d1f537d",
+                  "@id": "http://dlcs.io/iiif-img/2/2/0dee0280-9989-4d6d-86c2-30fc5d1f537d",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -198,14 +198,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/2b955f87-8171-4514-b6cf-2cc8651b0734",
+                "@id": "http://dlcs.io/iiif-img/2/2/2b955f87-8171-4514-b6cf-2cc8651b0734/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/2b955f87-8171-4514-b6cf-2cc8651b0734",
+                  "@id": "http://dlcs.io/iiif-img/2/2/2b955f87-8171-4514-b6cf-2cc8651b0734",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -279,14 +279,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/32c5af3a-03c1-42a5-af4a-075119aca5c9",
+                "@id": "http://dlcs.io/iiif-img/2/2/32c5af3a-03c1-42a5-af4a-075119aca5c9/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/32c5af3a-03c1-42a5-af4a-075119aca5c9",
+                  "@id": "http://dlcs.io/iiif-img/2/2/32c5af3a-03c1-42a5-af4a-075119aca5c9",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -360,14 +360,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/0a3b13f5-3441-4d92-9aaa-68f212ba3fcc",
+                "@id": "http://dlcs.io/iiif-img/2/2/0a3b13f5-3441-4d92-9aaa-68f212ba3fcc/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/0a3b13f5-3441-4d92-9aaa-68f212ba3fcc",
+                  "@id": "http://dlcs.io/iiif-img/2/2/0a3b13f5-3441-4d92-9aaa-68f212ba3fcc",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -441,14 +441,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/6f90f088-214c-4f17-ac28-4f45ce1e4b17",
+                "@id": "http://dlcs.io/iiif-img/2/2/6f90f088-214c-4f17-ac28-4f45ce1e4b17/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/6f90f088-214c-4f17-ac28-4f45ce1e4b17",
+                  "@id": "http://dlcs.io/iiif-img/2/2/6f90f088-214c-4f17-ac28-4f45ce1e4b17",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -522,14 +522,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/3f0ca2ec-db48-451e-aed7-9190da5df540",
+                "@id": "http://dlcs.io/iiif-img/2/2/3f0ca2ec-db48-451e-aed7-9190da5df540/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/3f0ca2ec-db48-451e-aed7-9190da5df540",
+                  "@id": "http://dlcs.io/iiif-img/2/2/3f0ca2ec-db48-451e-aed7-9190da5df540",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -603,14 +603,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/4b20fb1b-b743-4ae3-b457-40dfd244c62c",
+                "@id": "http://dlcs.io/iiif-img/2/2/4b20fb1b-b743-4ae3-b457-40dfd244c62c/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/4b20fb1b-b743-4ae3-b457-40dfd244c62c",
+                  "@id": "http://dlcs.io/iiif-img/2/2/4b20fb1b-b743-4ae3-b457-40dfd244c62c",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -684,14 +684,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/90372dd3-46de-460e-8d8a-6dc18cb14fb4",
+                "@id": "http://dlcs.io/iiif-img/2/2/90372dd3-46de-460e-8d8a-6dc18cb14fb4/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/90372dd3-46de-460e-8d8a-6dc18cb14fb4",
+                  "@id": "http://dlcs.io/iiif-img/2/2/90372dd3-46de-460e-8d8a-6dc18cb14fb4",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -765,14 +765,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/b696bc4e-875f-4711-a533-a21c785a6933",
+                "@id": "http://dlcs.io/iiif-img/2/2/b696bc4e-875f-4711-a533-a21c785a6933/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/b696bc4e-875f-4711-a533-a21c785a6933",
+                  "@id": "http://dlcs.io/iiif-img/2/2/b696bc4e-875f-4711-a533-a21c785a6933",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -846,14 +846,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/662d36f8-7199-4eca-8870-eedb0c7287d5",
+                "@id": "http://dlcs.io/iiif-img/2/2/662d36f8-7199-4eca-8870-eedb0c7287d5/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/662d36f8-7199-4eca-8870-eedb0c7287d5",
+                  "@id": "http://dlcs.io/iiif-img/2/2/662d36f8-7199-4eca-8870-eedb0c7287d5",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -927,14 +927,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/f9e389b5-cda7-41f5-98e5-6adc62c3c99d",
+                "@id": "http://dlcs.io/iiif-img/2/2/f9e389b5-cda7-41f5-98e5-6adc62c3c99d/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/f9e389b5-cda7-41f5-98e5-6adc62c3c99d",
+                  "@id": "http://dlcs.io/iiif-img/2/2/f9e389b5-cda7-41f5-98e5-6adc62c3c99d",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -1008,14 +1008,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/eaf51700-c7ff-4a3a-b699-44ab3b1aefbb",
+                "@id": "http://dlcs.io/iiif-img/2/2/eaf51700-c7ff-4a3a-b699-44ab3b1aefbb/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/eaf51700-c7ff-4a3a-b699-44ab3b1aefbb",
+                  "@id": "http://dlcs.io/iiif-img/2/2/eaf51700-c7ff-4a3a-b699-44ab3b1aefbb",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -1089,14 +1089,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/0e1886c8-7f1f-4e84-a0e1-9960fd05dd2b",
+                "@id": "http://dlcs.io/iiif-img/2/2/0e1886c8-7f1f-4e84-a0e1-9960fd05dd2b/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/0e1886c8-7f1f-4e84-a0e1-9960fd05dd2b",
+                  "@id": "http://dlcs.io/iiif-img/2/2/0e1886c8-7f1f-4e84-a0e1-9960fd05dd2b",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -1170,14 +1170,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/46b53ecb-f1e4-4273-86c9-c21594804059",
+                "@id": "http://dlcs.io/iiif-img/2/2/46b53ecb-f1e4-4273-86c9-c21594804059/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/46b53ecb-f1e4-4273-86c9-c21594804059",
+                  "@id": "http://dlcs.io/iiif-img/2/2/46b53ecb-f1e4-4273-86c9-c21594804059",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -1251,14 +1251,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/1c7d1fc1-231b-4fa5-873a-c468f30af2c5",
+                "@id": "http://dlcs.io/iiif-img/2/2/1c7d1fc1-231b-4fa5-873a-c468f30af2c5/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 464,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/1c7d1fc1-231b-4fa5-873a-c468f30af2c5",
+                  "@id": "http://dlcs.io/iiif-img/2/2/1c7d1fc1-231b-4fa5-873a-c468f30af2c5",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
@@ -1332,14 +1332,14 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://local.wellcomelibrary.org/iiif/b21533222/imageanno/8488379b-cb0b-442c-8682-1695076884af",
+                "@id": "http://dlcs.io/iiif-img/2/2/8488379b-cb0b-442c-8682-1695076884af/full/!800,800/0/default.jpg",
                 "@type": "dcTypes:Image",
                 "format": "image/jpeg",
                 "height": 800,
                 "width": 475,
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://dlcs.io/iiif-img/2/1/8488379b-cb0b-442c-8682-1695076884af",
+                  "@id": "http://dlcs.io/iiif-img/2/2/8488379b-cb0b-442c-8682-1695076884af",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 }
               },
