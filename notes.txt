@@ -4,33 +4,22 @@ http://wellcomelibrary.org/player/b21533301#?asi=0&ai=0
 
 http://wellcomelibrary.org/player/b22001645
 
-Give me a CSV file for the first 16 images of bnumber/manifestation:
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b21533222/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b21533301/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b22001645/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-
-
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b19612503/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b20642635/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b1964601x/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b18027726/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b18771476/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b18772341/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16Csv/b19567261/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-
-
-
 Give me the corresponding JP2s in a zip file - folder structure consistent with CSV origin
 
-http://local.wellcomelibrary.org/service/Dlcs16/b21533222/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b21533301/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b22001645/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
+http://local.wellcomelibrary.org/service/Dlcs16/b21533222/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b21533301/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b22001645/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
 
-http://local.wellcomelibrary.org/service/Dlcs16/b19612503/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b20642635/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b1964601x/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b18027726/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b18771476/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b18772341/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
-http://local.wellcomelibrary.org/service/Dlcs16/b19567261/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/
+http://local.wellcomelibrary.org/service/Dlcs16/b19612503/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b20642635/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/&start=0&end=5
+http://local.wellcomelibrary.org/service/Dlcs16/b1964601x/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b18027726/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b18771476/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b18772341/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
+http://local.wellcomelibrary.org/service/Dlcs16/b19567261/0?space=2&origin=https://wellcomelibrary.github.io/dlcsdemo/
 
+
+b21782210
+
+
+http://local.wellcomelibrary.org/service/Dlcs16/b19567261/0?space=2&origin=https://wellcomelibrary.github.io/dlcs-demo/&start=0&end=6
